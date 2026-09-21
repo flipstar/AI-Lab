@@ -1,5 +1,3 @@
-# cmp50hx-rom.md
-
 # The VBIOS swap
 
 The stock 50HX idles like it's still mining: 62–64 W doing nothing. The
