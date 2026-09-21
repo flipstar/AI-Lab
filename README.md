@@ -56,7 +56,7 @@ unlocked it.
 | File | What's in it |
 |---|---|
 | [headless-bios-mode.md](HP_Z6_G4/headless-bios-mode.md) | Making the Z6 G4 boot with no display card installed |
-| [cmp50hx-rom.md](CMP50/HXcmp50hx-rom.md) | Swapping in the MSI-tuned VBIOS: the 5.692 quirk, the `-6` flag, recovery |
+| [cmp50hx-rom.md](CMP50HX/cmp50hx-rom.md) | Swapping in the MSI-tuned VBIOS: the 5.692 quirk, the `-6` flag, recovery |
 | [cmp50hx-unlock.md](CMP50HX/cmp50hx-unlock.md) | Installing and verifying the 50HX unlock, before/after numbers |
 | [platform.md](HP_Z6_G4/platform.md) | Hardware as-built: CPU, RAM, slot layout, PSU |
 | [os-and-drivers.md](os-and-drivers.md) | Ubuntu, kernel, NVIDIA driver versions |
